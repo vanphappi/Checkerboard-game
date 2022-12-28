@@ -1,6 +1,6 @@
 # Tổng quan
-- Game cờ caro bằng java 
-- Nhóm SV thực hiện:
+### Game cờ caro bằng java 
+### Nhóm SV thực hiện:
  + Huỳnh Văn Pháp - MSSV: 19521987
  + Nguyễn Thùy Linh - MSSV: 19521758
  + Hồ Huỳnh Tuấn Phát - MMSV: 19521991
